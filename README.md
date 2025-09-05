@@ -33,5 +33,3 @@ The dataset used is the [Solar Power Generation Data](https://www.kaggle.com/dat
 5. Analyze the results and modify features or models as needed.
 
 This README provides clarity on purpose, data, methodology, and usage, making it well-suited for reviewers evaluating your task submission. Let me know if customization is needed!
-
-[1](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data)
