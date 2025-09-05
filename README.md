@@ -31,5 +31,3 @@ The dataset used is the [Solar Power Generation Data](https://www.kaggle.com/dat
 3. Mount Google Drive or place the `archive` folder with data in the working directory.
 4. Run through the notebook cells sequentially.
 5. Analyze the results and modify features or models as needed.
-
-This README provides clarity on purpose, data, methodology, and usage, making it well-suited for reviewers evaluating your task submission. Let me know if customization is needed!
